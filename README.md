@@ -1,6 +1,8 @@
 【健康計算機】(資展小專題)
+
 使用技術：HTML、CSS、JavaScript。
-介紹功能: 可以計算BMI、BMR、熱量、ABSI等。
+
+功能介紹: 可以計算BMI、BMR、熱量、ABSI等。
 
 首頁
 <img width="1274" height="623" alt="首頁" src="https://github.com/user-attachments/assets/2d4be3ca-57b3-406a-b533-64d55a4f6224" />
